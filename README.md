@@ -56,6 +56,8 @@ Click the button below and it will help you create a new repo, create a new Netl
   cd gatsby-sydney-ecommerce-theme/
   npm start or yarn start
   ```
+
+  Use Node 20 for local installs and builds. Gatsby 5 in this repo currently fails under Node 24 during `gatsby build`.
   
   or, run it using the Netlify CLI with:
   
