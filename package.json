@@ -4,6 +4,9 @@
   "private": true,
   "description": "An e-commerce theme designed by Matter Design for Netlify.",
   "author": "Matter Design",
+  "engines": {
+    "node": "20.x"
+  },
   "keywords": [
     "gatsby"
   ],
